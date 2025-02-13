@@ -1,0 +1,17 @@
+
+# Core libraries for data handling and computation
+numpy
+pandas
+
+# Libraries for regression models
+scikit-learn
+statsmodels
+
+# Visualization libraries
+matplotlib
+seaborn
+plotly
+
+# Utilities for optimization and scientific computations
+scipy
+
